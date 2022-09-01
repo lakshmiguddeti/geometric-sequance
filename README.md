@@ -1,0 +1,2 @@
+# geometric-sequance
+geometric sequance
